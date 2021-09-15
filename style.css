@@ -1,0 +1,16 @@
+.imgsize {
+  width: 50%;
+}
+body {
+  background-color: #464660;
+}
+#dhanu {
+  border-radius: 2rem;
+}
+#logo {
+  text-shadow: 2px 3px 4px white;
+  font-family: "Slabo 27px", serif;
+}
+h1 {
+  font-family: "Slabo 27px", serif;
+}
